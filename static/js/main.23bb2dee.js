@@ -31769,7 +31769,7 @@
 							children: "PreSale"
 						}), (0, ba.jsx)("h1", {
 							className: "text-2xl sm:text-4xl font-bold uppercase text-[#67E8F9]",
-							children: "TECHADDICT"
+							children: "TWOGECEO"
 						}), (0, ba.jsx)("button", {
 							className: "mt-5 px-6 py-2 bg-[#67E8F9] text-black rounded font-bold hover:bg-yellow-300",
 							onClick: function() {
@@ -31849,7 +31849,7 @@
 							className: "container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row justify-between",
 							children: [(0, ba.jsxs)("p", {
 								className: "text-[#fb9c28] text-sm text-center sm:text-left",
-								children: ["\xa9 ", (new Date).getFullYear(), " TECHADDICT"]
+								children: ["\xa9 ", (new Date).getFullYear(), " TWOGECEO"]
 							}), (0, ba.jsxs)("span", {
 								className: "inline-flex sm:mt-0 mt-2 justify-center sm:justify-start",
 								children: [(0, ba.jsx)("a", {
@@ -31926,7 +31926,7 @@
 									href: "#",
 									className: "text-blue-600 hover:text-blue-200",
 									children: (0, ba.jsx)("i", {
-										children: "TECHADDICT"
+										children: "TWOGECEO"
 									})
 								})]
 							})]
