@@ -662,8 +662,8 @@ video {
     0 8px 10px -6px var(--tw-shadow-color);
 }
 body {
-  background-image: url('media/logo1.png');
-  background-position: 50%;
+  background-image: url('../media/logo1.png');
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 /*  color: #67e8f9;*/
